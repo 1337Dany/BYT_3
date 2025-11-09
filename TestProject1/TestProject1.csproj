@@ -23,6 +23,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\BYT_3\BYT_3.csproj" />
+        <ProjectReference Include="../Calculator/Calculator.csproj" />
     </ItemGroup>
 
 </Project>
